@@ -1,1 +1,7 @@
 Digital literacy is an essential skill in today’s technology-driven world, especially for students who rely heavily on digital platforms for learning and communication. As a Student Digital Ambassador, the goal of this task is to create awareness about the importance of digital literacy in a simple and engaging way. This task focuses on designing an infographic that highlights key aspects such as safe internet practices, useful digital tools, and maintaining a professional online presence. The aim is to make students more informed and responsible digital users.
+
+For Task 1, I created a digital literacy awareness infographic using Canva. The purpose of this task was to present important concepts of digital literacy in a visually appealing and easy-to-understand format. My infographic includes key topics such as the meaning of digital literacy, useful digital tools for students, safe internet practices, professional online presence, and email etiquette.
+
+While designing the infographic, I focused on keeping the layout simple and organized so that the information is clear and not overwhelming. I used icons, headings, and short points to make the content more engaging and readable. I also selected a clean color scheme to maintain a professional look.
+
+One challenge I faced was fitting all the important information into a single page without making it look crowded. However, using Canva’s templates and design tools made the process easier. Overall, this task helped me understand how to communicate important information effectively through visual design.
