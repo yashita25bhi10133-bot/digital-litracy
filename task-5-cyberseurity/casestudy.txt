@@ -1,1 +1,7 @@
+A common type of cybercrime is phishing, where attackers trick users into sharing sensitive information such as passwords or bank details. In a typical scenario, a student receives an email claiming to offer a paid internship opportunity. The email looks professional and creates urgency by stating that the opportunity will expire soon.
 
+The student clicks on the provided link, which leads to a fake website that asks for personal details, including login credentials. Without verifying the authenticity of the email, the student enters the information. Soon after, the student’s account is compromised, leading to unauthorized access and possible misuse of personal data.
+
+Phishing attacks usually target students and young individuals who are actively looking for opportunities and may act quickly without verifying details. The consequences can include loss of personal data, financial loss, and emotional stress.
+
+This case highlights the importance of verifying sources, avoiding suspicious links, and being cautious while sharing personal information online.
