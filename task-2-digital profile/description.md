@@ -1,0 +1,5 @@
+For Task 2, I created and updated my profiles on important professional platforms such as GitHub, LinkedIn, and HackerRank. These platforms are widely used by students and professionals to showcase their skills, projects, and achievements. On GitHub, I created a profile README that includes my basic details and learning goals. On LinkedIn, I added my educational background, including my current degree and university.
+
+Each platform serves a different purpose. GitHub is used to store and share coding projects, LinkedIn helps in professional networking and building connections, and HackerRank is useful for practicing coding problems and improving problem-solving skills. Setting up these profiles helped me understand the importance of having a strong digital presence.
+
+In the coming years, I plan to regularly update these platforms by adding my projects, achievements, and skills. This will help me build a professional portfolio that can be useful for internships and job opportunities in the future.
