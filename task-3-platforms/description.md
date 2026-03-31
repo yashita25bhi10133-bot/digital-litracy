@@ -1,0 +1,5 @@
+For Task 3, I explored both a coding practice platform and a collaboration tool to understand their importance in academics. I used HackerRank to solve a beginner-level Python problem based on basic operations. This helped me improve my logical thinking and understand how simple programming concepts are applied in practice. The platform provided an interactive environment where I could write, run, and test my code easily.
+
+In addition, I created a Digital Literacy Awareness Quiz using Google Forms. The form included five questions covering topics such as digital literacy, safe internet practices, and email etiquette. I also viewed the responses using Google Sheets, which helped me understand how data can be collected and analyzed efficiently.
+
+This task was very useful as it introduced me to platforms that are commonly used by students for learning and collaboration. I believe these tools will help me throughout my academic journey by improving my coding skills, enabling me to create surveys, and enhancing my ability to work with digital tools effectively.
